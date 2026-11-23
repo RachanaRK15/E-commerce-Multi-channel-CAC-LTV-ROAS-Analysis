@@ -1,0 +1,401 @@
+CustomerID,SignupDate,AcquisitionChannel,City
+CUST001,2026-09-24,Instagram Ads,Mangalore
+CUST002,2026-03-21,Google Ads,Bengaluru
+CUST003,2026-01-11,Instagram Ads,Hubli
+CUST004,2025-12-15,YouTube,Udupi
+CUST005,2025-11-17,Instagram Ads,Mangalore
+CUST006,2026-02-20,Google Ads,Hubli
+CUST007,2026-09-05,Instagram Ads,Hubli
+CUST008,2026-02-10,YouTube,Udupi
+CUST009,2026-02-21,Referral,Hubli
+CUST010,2026-03-23,Instagram Ads,Bengaluru
+CUST011,2026-10-24,Referral,Mysuru
+CUST012,2026-03-23,Google Ads,Bengaluru
+CUST013,2026-04-22,Instagram Ads,Mangalore
+CUST014,2026-05-14,Instagram Ads,Mysuru
+CUST015,2026-04-26,YouTube,Mysuru
+CUST016,2025-11-23,Referral,Hubli
+CUST017,2026-01-03,Referral,Mangalore
+CUST018,2026-08-10,Organic Search,Hubli
+CUST019,2026-05-05,YouTube,Bengaluru
+CUST020,2026-10-27,Instagram Ads,Mangalore
+CUST021,2026-10-05,Google Ads,Mysuru
+CUST022,2025-12-11,Google Ads,Mangalore
+CUST023,2026-05-14,Organic Search,Udupi
+CUST024,2026-09-22,Organic Search,Bengaluru
+CUST025,2026-05-09,Organic Search,Bengaluru
+CUST026,2026-10-10,Organic Search,Mangalore
+CUST027,2026-09-08,Google Ads,Hubli
+CUST028,2026-03-06,Google Ads,Udupi
+CUST029,2026-05-14,Organic Search,Hubli
+CUST030,2026-02-21,Organic Search,Mangalore
+CUST031,2026-02-26,Instagram Ads,Mysuru
+CUST032,2026-05-25,Organic Search,Mangalore
+CUST033,2026-02-17,YouTube,Mysuru
+CUST034,2026-02-17,Referral,Udupi
+CUST035,2026-09-26,Referral,Bengaluru
+CUST036,2026-03-16,Google Ads,Bengaluru
+CUST037,2026-08-15,YouTube,Mysuru
+CUST038,2026-08-27,Referral,Hubli
+CUST039,2026-05-24,Organic Search,Bengaluru
+CUST040,2026-01-10,YouTube,Udupi
+CUST041,2025-12-17,Instagram Ads,Mangalore
+CUST042,2026-01-18,Google Ads,Udupi
+CUST043,2026-09-02,Instagram Ads,Udupi
+CUST044,2026-05-15,YouTube,Udupi
+CUST045,2026-07-29,Organic Search,Hubli
+CUST046,2025-11-06,Instagram Ads,Hubli
+CUST047,2026-03-17,Organic Search,Mangalore
+CUST048,2026-03-31,Referral,Bengaluru
+CUST049,2026-06-21,Instagram Ads,Mysuru
+CUST050,2026-07-15,Google Ads,Hubli
+CUST051,2025-12-25,Organic Search,Hubli
+CUST052,2026-09-08,Google Ads,Bengaluru
+CUST053,2026-05-11,Google Ads,Hubli
+CUST054,2026-07-30,Instagram Ads,Hubli
+CUST055,2026-04-15,Referral,Mangalore
+CUST056,2025-12-28,Organic Search,Mysuru
+CUST057,2026-03-03,Instagram Ads,Bengaluru
+CUST058,2026-08-18,Instagram Ads,Mangalore
+CUST059,2026-07-07,Instagram Ads,Hubli
+CUST060,2026-01-04,Google Ads,Udupi
+CUST061,2026-08-09,Google Ads,Mysuru
+CUST062,2026-07-29,YouTube,Udupi
+CUST063,2026-02-17,YouTube,Bengaluru
+CUST064,2026-04-09,Referral,Mysuru
+CUST065,2026-06-13,YouTube,Udupi
+CUST066,2026-01-01,Google Ads,Bengaluru
+CUST067,2025-12-03,Organic Search,Mangalore
+CUST068,2026-08-29,YouTube,Bengaluru
+CUST069,2026-08-29,Google Ads,Mangalore
+CUST070,2025-12-07,Instagram Ads,Bengaluru
+CUST071,2025-12-05,Instagram Ads,Mysuru
+CUST072,2025-12-07,YouTube,Bengaluru
+CUST073,2026-03-23,Referral,Bengaluru
+CUST074,2026-08-04,Google Ads,Hubli
+CUST075,2026-08-23,Referral,Bengaluru
+CUST076,2026-07-01,Referral,Bengaluru
+CUST077,2025-12-19,Instagram Ads,Udupi
+CUST078,2026-05-01,Referral,Udupi
+CUST079,2026-06-28,Instagram Ads,Mangalore
+CUST080,2025-12-02,Referral,Mysuru
+CUST081,2025-12-26,Google Ads,Bengaluru
+CUST082,2026-02-06,YouTube,Udupi
+CUST083,2026-01-11,Referral,Bengaluru
+CUST084,2026-03-23,Referral,Bengaluru
+CUST085,2025-12-09,Referral,Hubli
+CUST086,2025-12-21,Instagram Ads,Hubli
+CUST087,2025-11-08,Instagram Ads,Bengaluru
+CUST088,2026-01-25,Referral,Udupi
+CUST089,2026-07-05,Google Ads,Udupi
+CUST090,2025-12-01,Google Ads,Udupi
+CUST091,2025-11-02,Referral,Mysuru
+CUST092,2026-06-21,Organic Search,Udupi
+CUST093,2026-10-23,YouTube,Udupi
+CUST094,2026-01-19,Google Ads,Mysuru
+CUST095,2026-02-20,Instagram Ads,Hubli
+CUST096,2026-08-05,Instagram Ads,Mysuru
+CUST097,2025-11-30,Instagram Ads,Hubli
+CUST098,2026-07-03,YouTube,Hubli
+CUST099,2026-01-20,Instagram Ads,Hubli
+CUST100,2025-12-12,Google Ads,Mangalore
+CUST101,2026-09-01,Instagram Ads,Bengaluru
+CUST102,2026-05-26,Instagram Ads,Hubli
+CUST103,2026-03-07,YouTube,Hubli
+CUST104,2025-11-21,YouTube,Mangalore
+CUST105,2026-06-03,YouTube,Hubli
+CUST106,2026-07-26,Organic Search,Mysuru
+CUST107,2026-02-13,Organic Search,Bengaluru
+CUST108,2026-03-16,Referral,Bengaluru
+CUST109,2026-10-10,Organic Search,Udupi
+CUST110,2026-04-11,Instagram Ads,Mangalore
+CUST111,2026-06-23,YouTube,Hubli
+CUST112,2025-12-22,Instagram Ads,Hubli
+CUST113,2026-02-18,YouTube,Mysuru
+CUST114,2026-01-07,Organic Search,Mangalore
+CUST115,2026-03-06,Organic Search,Mysuru
+CUST116,2026-01-20,Referral,Hubli
+CUST117,2026-10-27,Organic Search,Hubli
+CUST118,2026-10-01,YouTube,Mangalore
+CUST119,2026-10-08,YouTube,Mysuru
+CUST120,2026-10-06,Instagram Ads,Bengaluru
+CUST121,2026-03-16,Instagram Ads,Mangalore
+CUST122,2026-08-11,Google Ads,Mysuru
+CUST123,2026-03-25,YouTube,Bengaluru
+CUST124,2026-04-25,Google Ads,Mysuru
+CUST125,2026-07-17,Referral,Mysuru
+CUST126,2025-11-27,Instagram Ads,Udupi
+CUST127,2026-03-22,Instagram Ads,Mangalore
+CUST128,2026-04-20,Google Ads,Mysuru
+CUST129,2026-01-22,Referral,Hubli
+CUST130,2026-10-28,Referral,Hubli
+CUST131,2025-11-05,Instagram Ads,Mangalore
+CUST132,2026-10-20,Google Ads,Hubli
+CUST133,2025-11-19,Organic Search,Hubli
+CUST134,2026-08-10,Google Ads,Udupi
+CUST135,2026-01-05,Instagram Ads,Mysuru
+CUST136,2026-05-06,Instagram Ads,Mysuru
+CUST137,2026-02-16,Google Ads,Mangalore
+CUST138,2026-05-01,YouTube,Udupi
+CUST139,2026-09-14,Google Ads,Bengaluru
+CUST140,2026-01-23,Google Ads,Udupi
+CUST141,2025-11-13,Google Ads,Mysuru
+CUST142,2026-05-30,Google Ads,Mysuru
+CUST143,2026-01-21,Instagram Ads,Udupi
+CUST144,2025-11-20,Referral,Bengaluru
+CUST145,2026-02-11,Referral,Mysuru
+CUST146,2026-04-06,Google Ads,Bengaluru
+CUST147,2025-11-13,Google Ads,Udupi
+CUST148,2026-04-18,Organic Search,Mangalore
+CUST149,2026-03-23,Organic Search,Hubli
+CUST150,2026-05-24,YouTube,Mysuru
+CUST151,2025-11-15,Instagram Ads,Mysuru
+CUST152,2026-01-31,YouTube,Mysuru
+CUST153,2025-11-20,Instagram Ads,Hubli
+CUST154,2026-06-11,Organic Search,Mysuru
+CUST155,2026-06-12,YouTube,Hubli
+CUST156,2025-12-30,Referral,Hubli
+CUST157,2026-02-06,Organic Search,Mangalore
+CUST158,2026-10-29,Referral,Mangalore
+CUST159,2026-07-25,YouTube,Bengaluru
+CUST160,2026-05-06,Referral,Mangalore
+CUST161,2026-10-07,Organic Search,Hubli
+CUST162,2026-04-10,Instagram Ads,Mysuru
+CUST163,2026-07-18,Organic Search,Udupi
+CUST164,2026-04-17,Referral,Mysuru
+CUST165,2026-08-11,Google Ads,Bengaluru
+CUST166,2026-06-04,Referral,Bengaluru
+CUST167,2026-09-12,YouTube,Mysuru
+CUST168,2026-05-27,YouTube,Mangalore
+CUST169,2026-04-05,Organic Search,Bengaluru
+CUST170,2026-06-09,YouTube,Hubli
+CUST171,2026-10-02,Organic Search,Udupi
+CUST172,2026-06-15,Referral,Bengaluru
+CUST173,2026-07-20,Referral,Bengaluru
+CUST174,2026-10-04,Instagram Ads,Mysuru
+CUST175,2026-07-22,YouTube,Mysuru
+CUST176,2025-12-18,Google Ads,Mysuru
+CUST177,2026-02-24,Google Ads,Bengaluru
+CUST178,2025-11-13,Instagram Ads,Bengaluru
+CUST179,2026-07-02,YouTube,Mangalore
+CUST180,2026-06-22,Referral,Hubli
+CUST181,2026-02-08,Referral,Udupi
+CUST182,2026-05-24,Google Ads,Bengaluru
+CUST183,2026-10-02,Instagram Ads,Mangalore
+CUST184,2026-06-06,Google Ads,Bengaluru
+CUST185,2026-10-23,YouTube,Udupi
+CUST186,2025-11-26,YouTube,Bengaluru
+CUST187,2026-01-02,Referral,Bengaluru
+CUST188,2026-06-26,YouTube,Hubli
+CUST189,2026-09-01,Organic Search,Udupi
+CUST190,2026-09-10,YouTube,Udupi
+CUST191,2026-08-08,Referral,Bengaluru
+CUST192,2026-07-02,Referral,Mysuru
+CUST193,2026-03-07,Organic Search,Hubli
+CUST194,2026-07-07,Google Ads,Mysuru
+CUST195,2026-06-14,Instagram Ads,Mysuru
+CUST196,2026-03-01,Organic Search,Mysuru
+CUST197,2026-04-13,YouTube,Mangalore
+CUST198,2026-01-10,Google Ads,Bengaluru
+CUST199,2026-05-16,Google Ads,Bengaluru
+CUST200,2025-12-03,Referral,Udupi
+CUST201,2026-04-19,YouTube,Udupi
+CUST202,2026-06-01,Instagram Ads,Bengaluru
+CUST203,2026-06-04,Referral,Hubli
+CUST204,2026-10-23,Instagram Ads,Hubli
+CUST205,2026-05-14,Referral,Mangalore
+CUST206,2026-04-30,Organic Search,Udupi
+CUST207,2026-06-03,YouTube,Hubli
+CUST208,2026-09-05,Google Ads,Udupi
+CUST209,2026-02-21,Organic Search,Udupi
+CUST210,2026-07-07,Instagram Ads,Udupi
+CUST211,2026-04-22,Referral,Bengaluru
+CUST212,2026-06-28,Google Ads,Hubli
+CUST213,2026-08-01,Instagram Ads,Udupi
+CUST214,2026-08-31,YouTube,Mangalore
+CUST215,2025-12-13,Referral,Bengaluru
+CUST216,2026-06-25,Google Ads,Mangalore
+CUST217,2026-03-14,Referral,Mysuru
+CUST218,2026-02-17,Referral,Mysuru
+CUST219,2026-04-22,Referral,Mysuru
+CUST220,2026-06-04,Organic Search,Mangalore
+CUST221,2026-06-29,Instagram Ads,Hubli
+CUST222,2025-11-27,Organic Search,Bengaluru
+CUST223,2026-09-29,Instagram Ads,Mangalore
+CUST224,2025-11-16,Google Ads,Bengaluru
+CUST225,2025-11-11,YouTube,Bengaluru
+CUST226,2026-03-03,Google Ads,Udupi
+CUST227,2026-10-09,Instagram Ads,Hubli
+CUST228,2026-02-20,Referral,Mysuru
+CUST229,2026-05-08,Google Ads,Hubli
+CUST230,2026-09-07,Instagram Ads,Bengaluru
+CUST231,2026-04-09,Instagram Ads,Hubli
+CUST232,2025-11-14,Organic Search,Hubli
+CUST233,2026-10-13,Referral,Udupi
+CUST234,2026-02-10,Instagram Ads,Hubli
+CUST235,2026-10-20,Google Ads,Mangalore
+CUST236,2026-10-23,Organic Search,Hubli
+CUST237,2026-01-01,YouTube,Mangalore
+CUST238,2026-04-27,YouTube,Udupi
+CUST239,2026-10-05,Organic Search,Mangalore
+CUST240,2026-07-18,Organic Search,Mangalore
+CUST241,2026-06-04,Referral,Mangalore
+CUST242,2026-06-10,Organic Search,Udupi
+CUST243,2026-10-29,Google Ads,Udupi
+CUST244,2026-01-30,YouTube,Mysuru
+CUST245,2026-09-12,YouTube,Udupi
+CUST246,2026-06-27,Referral,Hubli
+CUST247,2026-03-18,Organic Search,Bengaluru
+CUST248,2025-12-15,Organic Search,Udupi
+CUST249,2026-03-05,Referral,Hubli
+CUST250,2026-09-09,Referral,Mysuru
+CUST251,2025-11-15,Referral,Mysuru
+CUST252,2026-02-02,Referral,Bengaluru
+CUST253,2026-05-01,Organic Search,Mysuru
+CUST254,2026-03-24,YouTube,Mysuru
+CUST255,2026-08-12,Instagram Ads,Hubli
+CUST256,2026-02-06,Instagram Ads,Bengaluru
+CUST257,2026-05-28,Referral,Hubli
+CUST258,2026-03-04,Referral,Udupi
+CUST259,2026-06-18,Instagram Ads,Mangalore
+CUST260,2026-03-31,Google Ads,Udupi
+CUST261,2026-10-21,Google Ads,Mysuru
+CUST262,2026-10-06,YouTube,Mysuru
+CUST263,2026-07-01,YouTube,Hubli
+CUST264,2026-04-26,Referral,Hubli
+CUST265,2026-04-19,Organic Search,Udupi
+CUST266,2026-03-19,Organic Search,Mysuru
+CUST267,2026-02-27,Instagram Ads,Bengaluru
+CUST268,2026-04-11,Instagram Ads,Hubli
+CUST269,2026-10-20,Google Ads,Bengaluru
+CUST270,2026-02-19,Referral,Mysuru
+CUST271,2026-08-29,YouTube,Hubli
+CUST272,2026-03-25,Instagram Ads,Bengaluru
+CUST273,2026-04-01,Google Ads,Mysuru
+CUST274,2026-01-31,Organic Search,Mangalore
+CUST275,2026-10-29,YouTube,Bengaluru
+CUST276,2026-03-21,Instagram Ads,Mangalore
+CUST277,2026-08-11,Organic Search,Bengaluru
+CUST278,2026-09-23,Referral,Mangalore
+CUST279,2025-11-07,YouTube,Mysuru
+CUST280,2026-06-29,Referral,Udupi
+CUST281,2026-04-24,Google Ads,Mangalore
+CUST282,2026-03-10,Referral,Mangalore
+CUST283,2025-12-04,Referral,Udupi
+CUST284,2025-12-08,YouTube,Mangalore
+CUST285,2026-01-17,Google Ads,Hubli
+CUST286,2026-04-05,Instagram Ads,Bengaluru
+CUST287,2025-12-31,YouTube,Udupi
+CUST288,2026-09-07,YouTube,Hubli
+CUST289,2026-02-24,YouTube,Udupi
+CUST290,2026-06-19,Referral,Mysuru
+CUST291,2026-08-29,Referral,Mysuru
+CUST292,2026-08-19,YouTube,Mangalore
+CUST293,2026-09-09,Instagram Ads,Bengaluru
+CUST294,2026-09-17,Google Ads,Mysuru
+CUST295,2026-10-05,Instagram Ads,Bengaluru
+CUST296,2026-03-03,Google Ads,Hubli
+CUST297,2025-12-09,Google Ads,Mangalore
+CUST298,2026-05-29,Referral,Hubli
+CUST299,2026-06-29,Organic Search,Mangalore
+CUST300,2026-02-27,Organic Search,Mysuru
+CUST301,2026-10-26,Referral,Mangalore
+CUST302,2026-10-18,Google Ads,Mysuru
+CUST303,2026-09-17,YouTube,Bengaluru
+CUST304,2026-06-06,Instagram Ads,Hubli
+CUST305,2026-02-24,Google Ads,Mysuru
+CUST306,2026-01-12,Instagram Ads,Mangalore
+CUST307,2026-01-24,Organic Search,Hubli
+CUST308,2026-08-19,Organic Search,Udupi
+CUST309,2026-01-03,Referral,Mysuru
+CUST310,2026-10-25,Referral,Mysuru
+CUST311,2026-07-15,YouTube,Udupi
+CUST312,2026-06-13,Instagram Ads,Hubli
+CUST313,2025-11-21,Referral,Mysuru
+CUST314,2026-09-06,Organic Search,Mangalore
+CUST315,2025-12-17,Google Ads,Hubli
+CUST316,2026-08-28,Instagram Ads,Mysuru
+CUST317,2026-08-23,Instagram Ads,Bengaluru
+CUST318,2026-06-29,YouTube,Udupi
+CUST319,2026-03-23,Google Ads,Hubli
+CUST320,2026-06-12,Referral,Mangalore
+CUST321,2026-06-29,Organic Search,Udupi
+CUST322,2026-04-20,Organic Search,Mangalore
+CUST323,2026-01-22,Organic Search,Udupi
+CUST324,2026-10-22,Referral,Mysuru
+CUST325,2026-10-06,Referral,Hubli
+CUST326,2025-11-19,Referral,Mangalore
+CUST327,2026-04-11,Organic Search,Mysuru
+CUST328,2025-12-30,Referral,Hubli
+CUST329,2025-11-01,YouTube,Udupi
+CUST330,2026-05-31,Instagram Ads,Bengaluru
+CUST331,2026-07-24,Organic Search,Hubli
+CUST332,2026-07-14,Referral,Mangalore
+CUST333,2026-02-13,Organic Search,Hubli
+CUST334,2026-01-07,Organic Search,Udupi
+CUST335,2026-10-24,Referral,Mangalore
+CUST336,2025-11-15,YouTube,Bengaluru
+CUST337,2026-10-30,Google Ads,Mysuru
+CUST338,2026-08-10,Instagram Ads,Hubli
+CUST339,2026-05-28,Instagram Ads,Bengaluru
+CUST340,2025-12-29,Referral,Mangalore
+CUST341,2026-09-28,Google Ads,Udupi
+CUST342,2026-03-30,YouTube,Mysuru
+CUST343,2026-06-01,Referral,Udupi
+CUST344,2026-03-05,Referral,Hubli
+CUST345,2026-01-14,Referral,Bengaluru
+CUST346,2026-09-03,YouTube,Bengaluru
+CUST347,2025-12-06,Organic Search,Udupi
+CUST348,2026-04-24,YouTube,Mysuru
+CUST349,2025-11-02,Organic Search,Mysuru
+CUST350,2026-08-28,YouTube,Udupi
+CUST351,2026-01-16,Referral,Hubli
+CUST352,2026-07-06,Organic Search,Mysuru
+CUST353,2026-08-10,YouTube,Udupi
+CUST354,2026-06-22,Organic Search,Bengaluru
+CUST355,2026-10-24,Google Ads,Hubli
+CUST356,2026-05-16,Google Ads,Udupi
+CUST357,2025-11-23,Organic Search,Udupi
+CUST358,2026-10-28,Referral,Udupi
+CUST359,2026-10-06,Google Ads,Udupi
+CUST360,2025-11-19,Google Ads,Hubli
+CUST361,2026-08-30,Organic Search,Mangalore
+CUST362,2026-06-14,Instagram Ads,Hubli
+CUST363,2026-06-22,Instagram Ads,Bengaluru
+CUST364,2026-05-29,Google Ads,Mangalore
+CUST365,2026-06-29,Organic Search,Mysuru
+CUST366,2026-09-16,Referral,Mangalore
+CUST367,2026-04-18,YouTube,Udupi
+CUST368,2026-04-12,Referral,Hubli
+CUST369,2025-11-19,YouTube,Mangalore
+CUST370,2026-03-01,Organic Search,Bengaluru
+CUST371,2025-12-17,Referral,Mangalore
+CUST372,2026-09-21,Instagram Ads,Udupi
+CUST373,2026-01-25,Organic Search,Mangalore
+CUST374,2025-11-24,Organic Search,Mangalore
+CUST375,2026-03-31,Organic Search,Mysuru
+CUST376,2026-06-09,Google Ads,Bengaluru
+CUST377,2026-07-30,Referral,Hubli
+CUST378,2026-10-16,Google Ads,Bengaluru
+CUST379,2026-01-29,Instagram Ads,Hubli
+CUST380,2026-05-15,YouTube,Bengaluru
+CUST381,2026-07-13,YouTube,Bengaluru
+CUST382,2026-02-27,Referral,Mysuru
+CUST383,2026-06-24,Organic Search,Mangalore
+CUST384,2026-06-27,Organic Search,Hubli
+CUST385,2026-01-20,Instagram Ads,Udupi
+CUST386,2026-04-26,YouTube,Mysuru
+CUST387,2026-09-24,Referral,Mysuru
+CUST388,2026-06-22,Organic Search,Bengaluru
+CUST389,2026-05-16,Referral,Mangalore
+CUST390,2026-03-02,Referral,Hubli
+CUST391,2026-05-03,YouTube,Mysuru
+CUST392,2026-10-25,Organic Search,Mangalore
+CUST393,2026-10-04,Referral,Mysuru
+CUST394,2025-11-05,YouTube,Mangalore
+CUST395,2026-09-07,Referral,Mysuru
+CUST396,2026-02-26,YouTube,Mysuru
+CUST397,2026-02-21,Google Ads,Hubli
+CUST398,2026-03-09,Google Ads,Mangalore
+CUST399,2026-09-18,Instagram Ads,Mysuru
+CUST400,2026-06-14,Instagram Ads,Hubli
