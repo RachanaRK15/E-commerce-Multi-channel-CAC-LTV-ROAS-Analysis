@@ -46,7 +46,8 @@ This project connects **marketing spend** directly to **customer lifetime revenu
 4. **Audit Organic Search overhead:** Review SEO agency and tool costs (`₹5.34L`) to improve return efficiency.
 
 ## Technical Approach
-* **SQL:** Used CTEs (`WITH`), `LEFT JOIN`, and `COALESCE` across `customers`, `transactions`, and `marketing_spend` to prevent spend double-counting and include non-buying customers in LTV calculations.
+* **Python (Google Colab):** Cleaned, standardized, and validated raw `customers`, `transactions`, and `marketing_spend` datasets prior to database analysis.
+* **SQL:** Used MySQL across `customers`, `transactions`, and `marketing_spend` to calculate CAC, LTV, and ROAS.
 * **Power BI:** Built a single-page executive dashboard with synchronized channel sorting (`1–5`) across all visuals for instant cross-chart comparison.
 
 ## Files in This Repository
