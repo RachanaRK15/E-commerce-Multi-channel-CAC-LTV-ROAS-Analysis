@@ -9,9 +9,9 @@
 
 
 ## Business Problem
-Digital marketing teams often judge campaigns on surface numbers like clicks or first-time sales. A channel can bring high revenue while quietly draining budget through steep acquisition costs. 
+Marketing teams often judge ads by basic numbers like clicks or first-time sales. A channel might look great because it brings in high sales, yet quietly waste budget if it costs too much to win each customer.
 
-This project connects **marketing spend** directly to **customer lifetime revenue** across 5 channels (**Referral, Instagram Ads, YouTube, Organic Search, and Google Ads**) to answer two core business questions:
+This project connects **marketing spend** directly to **customer lifetime revenue** across 5 channels (**Referral, Instagram Ads, YouTube, Organic Search, and Google Ads**) to answer two main business questions:
 1. Which channels bring the highest return per rupee spent (**ROAS**)?
 2. Are acquired customers worth more over time (**LTV**) than it costs to win them (**CAC**)?
 
