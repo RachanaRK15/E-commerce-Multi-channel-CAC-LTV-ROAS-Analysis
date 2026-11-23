@@ -2,7 +2,7 @@
 
 **Evaluating Marketing Efficiency & Unit Economics Across 5 Acquisition Channels**
 
-![Power BI Dashboard](Dashboard/dashbord.png)
+![Power BI Dashboard](Dashboard/dashboard.png)
 
 
 
