@@ -51,8 +51,8 @@ This project connects **marketing spend** directly to **customer lifetime revenu
 * **Power BI:** Built a single-page executive dashboard with synchronized channel sorting (`1–5`) across all visuals for instant cross-chart comparison.
 
 ## Files in This Repository
-* `dashboard/multi_channel_cac_ltv_roas.pbix` — Interactive Power BI file
-* `dashboard/dashboard_overview.png` — Dashboard preview image
-* `sql/cac_ltv_roas_queries.sql` — SQL scripts for CAC, LTV, and ROAS
-
+* `Dashboard/Multi-Channel CAC, LTV, ROAS Analysis (data analytics project).pbix` — Interactive Power BI file
+* `Dashboard/dashboard.png` — Dashboard preview image
+* `Data/` — Cleaned and raw datasets (`customers`, `transactions`, `marketing_spend`)
+* `script/` — Python data cleaning notebook and MySQL scripts for CAC, LTV, and ROAS
 **Author:** Rachana R Kulal | MBA (Finance & Marketing)
